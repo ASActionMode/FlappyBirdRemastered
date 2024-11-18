@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"rain_bg_sfx",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":45.87501,
+  "name":"rain_bg_sfx",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"rain_bg_sfx.wav",
+  "type":0,
+  "volume":1.0,
+}
