@@ -1,3 +1,15 @@
+/******************************************************************************************
+ * Description: This script handles every aspect of the game solely. Since game is simple
+ * So every function is in here. (We'll saperate them as needed, or you can).
+ *
+ * Original Author(s): GrizzliusMaximus & ASActionMode
+ * Last Modified: 21-11-2024 (21 November, 2024)
+ * 
+ * License: Apache 2.0
+*
+ * GitHub Repository: https://github.com/ASActionMode/FlappyBirdRemastered/tree/main
+ ******************************************************************************************/
+
 //function drawScore2(_n,_x){
 //	var _nn = _n%10;
 //	if (_nn == 1){
@@ -69,10 +81,10 @@ function drawScore(_n){
 	var _n_orig = _n;
 	var _digits = 0;
 	var _width = 0;
-	//get width
+	// Get width
 	do{
 		_digits++;
-		//get right-most digit
+		//Get right-most digit
 		if (_n%10 == 1){
 			_width += 6;
 		}
@@ -81,13 +93,13 @@ function drawScore(_n){
 		}
 		_n = _n div 10;
 	}until (_n <= 0)
-	// find the _x position based on the _width so score is drawn on center
+	// Find the _x position based on the _width so score is drawn on center
 	var _x = 72-_width*0.5;
 	
-	//draw the digits
+	// Draw the digits
 	_n = 0;
 	for (var i = _digits-1; i >= 0; i--){
-		//get left-most digit
+		// Get left-most digit
 		_n = (_n_orig div power(10,i))%10;
 		if (_n == 1){
 			_x -= 2;
