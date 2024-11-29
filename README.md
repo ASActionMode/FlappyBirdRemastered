@@ -19,4 +19,7 @@ Flappy Bird Remastered is a modern take on the classic arcade game that took the
 2. Open GameMaker (Steam Version)
 3. You can Import/Open the cloned project from earlier and Edit the Project!
 
+## License
+The project source tree is Available. You can modify it and Use it anywhere freely. But you cannot sell the assets directly (including Scripts, Assets. Which are not owned by me)
+
 
