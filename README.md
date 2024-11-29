@@ -15,3 +15,8 @@ Flappy Bird Remastered is a modern take on the classic arcade game that took the
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/FlappyBirdRemastered.git
+
+2. Open GameMaker (Steam Version)
+3. You can Import/Open the cloned project from earlier and Edit the Project!
+
+
