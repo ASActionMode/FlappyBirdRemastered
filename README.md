@@ -7,17 +7,17 @@ Flappy Bird Remastered is a modern reimagining of the classic arcade game that c
 - **Enhanced Graphics**: Enjoy updated textures, animations, and visuals that bring the game to life.
 - **Improved Performance**: Optimized for smooth gameplay across various devices.
 - **New Challenges**: Encounter fresh levels and obstacles that add depth and difficulty.
-- **Leaderboard Integration**: Compete globally with real-time leaderboards.
-- **Customizable Birds**: Unlock and select from a variety of birds with unique designs and abilities.
+- **Leaderboard Integration (Upcoming)**: Compete globally with real-time leaderboards.
+- **Customizable Birds (Upcoming)**: Unlock and select from a variety of birds with unique designs and abilities.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FlappyBirdRemastered.git
+   git clone https://github.com/ASActionMode/FlappyBirdRemastered.git
 Open the project in GameMaker (Steam version or compatible IDE).
 Import/Open the cloned project and start editing or playing!
-How to Play
+How to Play:
 Navigate your bird through obstacles by tapping or pressing a key to flap. Avoid hitting pipes, and aim for the highest score!
 
 ## Contribution Guidelines
