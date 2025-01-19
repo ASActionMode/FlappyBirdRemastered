@@ -1,29 +1,51 @@
-# FlappyBirdRemastered
+# Flappy Bird Remastered
 
-Flappy Bird Remastered is a modern take on the classic arcade game that took the world by storm. This version comes with enhanced graphics, smoother gameplay, and new exciting features while preserving the simplicity and addictiveness of the original game.
+Flappy Bird Remastered is a modern reimagining of the classic arcade game that captured the hearts of millions. This version features enhanced graphics, smoother gameplay, and exciting new features, all while retaining the addictive simplicity of the original.
 
 ## Features
 
-- **Enhanced Graphics**: Dive into a visually captivating experience with updated textures and animations.
-- **Improved Performance**: Enjoy smoother gameplay with optimized performance for various devices.
-- **New Challenges**: Take on new levels and obstacles that add an extra layer of fun and difficulty.
-- **Leaderboard Integration**: Compete with friends and players worldwide with a real-time leaderboard.
-- **Customizable Birds**: Unlock and choose from a variety of birds with unique appearances and abilities.
+- **Enhanced Graphics**: Enjoy updated textures, animations, and visuals that bring the game to life.
+- **Improved Performance**: Optimized for smooth gameplay across various devices.
+- **New Challenges**: Encounter fresh levels and obstacles that add depth and difficulty.
+- **Leaderboard Integration**: Compete globally with real-time leaderboards.
+- **Customizable Birds**: Unlock and select from a variety of birds with unique designs and abilities.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FlappyBirdRemastered.git
+   git clone https://github.com/<your-username>/FlappyBirdRemastered.git
+Open the project in GameMaker (Steam version or compatible IDE).
+Import/Open the cloned project and start editing or playing!
+How to Play
+Navigate your bird through obstacles by tapping or pressing a key to flap. Avoid hitting pipes, and aim for the highest score!
 
-2. Open GameMaker (Steam Version)
-3. You can Import/Open the cloned project from earlier and Edit the Project!
+## Contribution Guidelines
+We welcome contributions to this project! Here are some ideas for how you can help:
 
-## Contribution
-You can contribute to this project by: Adding New Features, characters, and art style, improving, bug fixes, or any sort of modification, if they are valuable to this Remake then it'll be added to the Default Branch!
+- Add new features, levels, or characters.
+- Improve graphics, art styles, or animations.
+- Fix bugs or optimize performance.
+- Suggest and implement gameplay enhancements.
+
+### To contribute:
+
+- Fork this repository.
+Create a new branch for your feature or fix:
+   ```bash
+   git checkout -b feature-or-fix-name
+- Commit your changes and push to your branch.
+- Open a pull request describing your work.
+If your contributions are valuable to the project, they may be merged into the default branch.
 
 ## License
-The project source tree is Available. You can modify it and Use it anywhere freely. But you cannot sell the assets directly. This is a a fanmade project, and these files should not be used for commercial usage, and assets included in this Source Tree (including Scripts and assets I do not own). I hope you understand.
-The Files that are not present in Original Flappy Bird are created or modified by me or by any contributor.
-
+This project is licensed under the Apache 2.0 License. You are free to:
+Use, modify, and distribute the source code. Integrate it into your own projects, provided you follow the license terms.
+Asset Usage Notes
+**Fanmade Project:** This is a non-commercial fan project inspired by the original Flappy Bird.
+**Assets and Scripts:** Certain assets and scripts included in this repository may not be used for commercial purposes. These include original Flappy Bird assets and third-party contributions.
+_Any files or assets created or modified by contributors are either open-source or licensed accordingly, as specified in the project files.
+Please refrain from selling assets or distributing them separately from this project._
+## Acknowledgments
+This project is inspired by the original Flappy Bird, created by Dong Nguyen. Special thanks to all contributors and the open-source community for their support!
 
