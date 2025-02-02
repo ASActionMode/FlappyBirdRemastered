@@ -34,9 +34,10 @@ We welcome contributions to this project! Here are some ideas for how you can he
 Create a new branch for your feature or fix:
    ```bash
    git checkout -b feature-or-fix-name
-- Commit your changes and push to your branch.
+- Commit your changes and push them to your branch.
 - Open a pull request describing your work.
-If your contributions are valuable to the project, they may be merged into the default branch.
+
+If your contributions are valuable to the project, they may be merged into the `dev` branch.
 
 ## License
 This project is licensed under the Apache 2.0 License. You are free to:
