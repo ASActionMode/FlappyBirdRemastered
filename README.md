@@ -40,10 +40,10 @@ If your contributions are valuable to the project, they may be merged into the d
 
 ## License
 This project is licensed under the Apache 2.0 License. You are free to:
-Use, modify, and distribute the source code. Integrate it into your own projects, provided you follow the license terms.
+Use, modify, and distribute the source code. Integrate it into your projects, provided you follow the license terms.
 Asset Usage Notes
-**Fanmade Project:** This is a non-commercial fan project inspired by the original Flappy Bird.
-**Assets and Scripts:** Certain assets and scripts included in this repository may not be used for commercial purposes. These include original Flappy Bird assets and third-party contributions.
+- **Fanmade Project:** This is a non-commercial fan project inspired by the original Flappy Bird.
+- **Assets and Scripts:** Certain assets and scripts included in this repository may not be used commercially. These include original Flappy Bird assets and third-party contributions.
 _Any files or assets created or modified by contributors are either open-source or licensed accordingly, as specified in the project files.
 Please refrain from selling assets or distributing them separately from this project._
 ## Acknowledgments
