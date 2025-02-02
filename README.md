@@ -50,3 +50,5 @@ Please refrain from selling assets or distributing them separately from this pro
 ## Acknowledgments
 This project is inspired by the original Flappy Bird, created by Dong Nguyen. Special thanks to all contributors and the open-source community for their support!
 
+**This Project was built upon GrizzliusMaximus's "Flappy Bird: Faithful Remake" - Both are completely different from each other but due to his contribution this project was made possible.**
+
